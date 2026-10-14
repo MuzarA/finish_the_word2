@@ -1,0 +1,9 @@
+{
+  "name": "finish-the-word-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Relay server for the Finish the Word game",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
